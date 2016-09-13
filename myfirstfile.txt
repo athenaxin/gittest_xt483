@@ -3,9 +3,11 @@ athen xin tang
 hello there, this is Xin Tang
 balabalabala
 whatever
+<<<<<<< HEAD
 what ever
 what........
 ......
 oooo
 hjkhkhjhj
 Hello this is Chenxi hope this could succeed???
+hhhhHello this is Chenxi hope this could succeed
