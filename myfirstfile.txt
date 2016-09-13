@@ -4,6 +4,7 @@ athen xin tang
 hello there, this is Xin Tang
 balabalabala
 whatever
+<<<<<<< HEAD
 =======
 ﻿what ever 
 what....
@@ -12,3 +13,6 @@ what....
 
 hjkhkhjhj
 >>>>>>> upstream/master
+=======
+Hello this is Chenxi hope this could succeed???,me><
+>>>>>>> 3a7c5d92b8997d17b1cdaa7dec9c3adcb7ad5052
