@@ -3,7 +3,6 @@ athen xin tang
 hello there, this is Xin Tang
 balabalabala
 whatever
-<<<<<<< HEAD
 what ever
 what........
 ......
